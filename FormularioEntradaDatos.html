@@ -1,0 +1,23 @@
+<html> 
+<head> 
+	<title>Formulario de entrada de datos</title> 
+</head>
+<body> 
+
+	<form method="post" action="resultado.php"> 
+		<P><strong>Introduce el texto:</strong><br> 
+			<textarea name="text" COLS=45 rows=5 wrap=virtual>
+				
+			</textarea> </p> 
+		<P><strong>Funciones de Cadena:</strong><br> 
+			<input type="radio" name="func" value="md5" checked> Obtener md5<br> 
+			<input type="radio" name="func" value="strlen"> Obtener la longitud de la cadena<br> 
+			<input type="radio" name="func" value="strrev"> Obtener cadena Inversa<br> 
+			<input type="radio" name="func" value="strtoupper"> Hacer la cadena en may&uacute;sculas<br>
+			<input type ="radio" name="func" value="strtolower"> Hacer la cadena en min&uacute;sculas<br> 
+			<input type ="radio" name="func" value="ucwords">
+			Hacer las primeras letras may&uacute;cula</p> 
+			<P><input type="submit" name="submit" value="Mostrar Resultados"> </p> 
+			</form> 
+		</body> 
+		</html>
