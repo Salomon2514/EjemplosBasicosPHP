@@ -19,6 +19,6 @@ Para ejecutar los ejemplos necesitas un entorno local de servidor web con PHP:
 
 ## 🚀 Cómo usar este repositorio
 
-1. Descarga o clona el repositorio:  
+1. Descarga o clona el repositorio, ubica una carpeta en wwww -> para WampServer o htdocs  si es Xampp
    ```bash
-   git clone https://github.com/tuusuario/turepo.git
+   [git clone https://github.com/Salomon2514/EjemplosBasicosPHP.git]
