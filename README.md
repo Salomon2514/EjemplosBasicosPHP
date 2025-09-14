@@ -12,8 +12,7 @@ Para ejecutar los ejemplos necesitas un entorno local de servidor web con PHP:
 - [XAMPP](https://www.apachefriends.org/) (Windows / Linux / macOS)  
 
 **Versión recomendada:**  
-- PHP 7.4 o superior  
-- MySQL/MariaDB (si usas los ejemplos con base de datos)  
+- PHP 7.4 o superior   
 
 ---
 
