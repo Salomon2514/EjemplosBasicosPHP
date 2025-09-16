@@ -1,7 +1,7 @@
 <?PHP
 
 $num = 7;
-
+//Paso por Referencia
 function cambiarValor(&$number){
     echo  ++ $number."<br>";
 
