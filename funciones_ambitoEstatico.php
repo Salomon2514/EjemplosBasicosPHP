@@ -8,8 +8,10 @@ function staticScope() {
 }
 
 staticScope(); // Imprime 1
+echo "\n";
 staticScope(); // Imprime 2
+echo "\n";
 staticScope(); // Imprime 3
-echo $staticVar;
+
 
 ?>

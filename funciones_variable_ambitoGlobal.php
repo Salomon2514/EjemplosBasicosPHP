@@ -16,5 +16,6 @@ function myFunction() {
 }
 
 myFunction();
+echo "Probando: ".$globalVar."\n";
 
 ?>

@@ -10,7 +10,7 @@
 function mayusculas(&$valor)
 {
     $valor = strtoupper($valor);
-}
+}//fin de la función 
 
 $nombre = 'Gorka';
 
