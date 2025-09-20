@@ -33,7 +33,7 @@ Estos entornos no son servidores en sí mismos, sino **paquetes que contienen se
 **Editor de Código :** 
 - Visual Estudio Code
 
-## 🚀 Estadísticas
+## 🔢 Estadísticas
 
 
 ![Visitor Count](https://badgen.net/github/watchers/Salomon2514/EjemplosBasicosPHP)
