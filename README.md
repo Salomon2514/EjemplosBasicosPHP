@@ -31,7 +31,6 @@ Estos entornos no son servidores en sí mismos, sino **paquetes que contienen se
 
 **Editor de Código :** 
 - Visual Estudio Code<br>
-**Versión recomendada:**  
 - PHP 8.3.14 o superior   
 
 ## 🚀 Cómo usar este repositorio
