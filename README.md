@@ -1,6 +1,6 @@
 
 # 📌 Ejemplos básicos con PHP
-
+![Creado](https://img.shields.io/badge/Creado-01--09--2025-blue)
 Este repositorio contiene varios ejemplos y ejercicios en PHP para aprender conceptos fundamentales como variables, arreglos, funciones.
 
 ---
@@ -34,6 +34,7 @@ Estos entornos no son servidores en sí mismos, sino **paquetes que contienen se
 - Visual Estudio Code
 
 ## 🚀 Estadísticas
+
 ![Visitor count](https://hits.seals.io/github/Salomon2514/EjemplosBasicosPHP)
 
 ## 🚀 Cómo usar este repositorio
@@ -53,5 +54,5 @@ Universidad Tecnológica de Panamá
 📧 **Email:** irinafong@gmail.com<br>
 🌐 **GitHub:**(https://github.com/Salomon2514)  
 
-![Creado](https://img.shields.io/badge/Creado-01--09--2025-blue)
+
 
