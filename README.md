@@ -6,10 +6,11 @@ Este repositorio contiene varios ejemplos y ejercicios en PHP para aprender conc
 
 ## Tecnologías utilizadas  
 
-![PHP](https://www.php.net/images/logos/new-php-logo.svg)  
-![Apache](https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg)  
-![MySQL](https://www.mysql.com/common/logos/logo-mysql-170x115.png)  
-![XAMPP](https://www.apachefriends.org/images/xampp-logo.svg)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white)  
+
 
 
 ## ⚙️ Requisitos
