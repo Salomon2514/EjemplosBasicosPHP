@@ -37,7 +37,7 @@ Estos entornos no son servidores en sí mismos, sino **paquetes que contienen se
 1. Descarga o clona el repositorio, ubica una carpeta en www -> para WampServer o htdocs  si es Xampp
    ```bash
    [git clone https://github.com/Salomon2514/EjemplosBasicosPHP.git]
-2. Para correrlos http://127.1.1.1/Carpeta/ o  http://localhost/Carpeta/
+2. Para correrlos edita el URL de su navegador:  http://127.1.1.1/Carpeta/ o  http://localhost/Carpeta/
 
 ## 👨‍🏫 Autor
 
