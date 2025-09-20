@@ -40,3 +40,14 @@ Estos entornos no son servidores en sí mismos, sino **paquetes que contienen se
    ```bash
    [git clone https://github.com/Salomon2514/EjemplosBasicosPHP.git]
 2. Para correrlos http://127.1.1.1/Carpeta/ o  http://localhost/Carpeta/
+
+## 👨‍🏫 Autor
+
+**Irina Fong**  
+Instructor de Programación  
+Universidad Tecnológica de Panamá  
+
+📧 **Email:** irina.fong@utp.ac.pa  
+📧 **Email:** irinafong@gmail.com 
+🌐 **GitHub:** [IrinaFong](https://github.com/Salomon2514)  
+
