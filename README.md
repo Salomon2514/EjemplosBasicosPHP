@@ -36,7 +36,7 @@ Estos entornos no son servidores en sí mismos, sino **paquetes que contienen se
 ## 🚀 Estadísticas
 
 
-![Visitor count](https://hits.seals.io/github/Salomon2514/EjemplosBasicosPHP)
+![Visitor Count](https://badgen.net/github/watchers/Salomon2514/EjemplosBasicosPHP)
 
 
 ## 🚀 Cómo usar este repositorio
