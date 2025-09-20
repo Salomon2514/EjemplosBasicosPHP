@@ -14,16 +14,15 @@ Este repositorio contiene varios ejemplos y ejercicios en PHP para aprender conc
 
 ## ⚙️ Requisitos
 
-Para ejecutar los ejemplos necesitas un entorno local de servidor web con PHP:
+Para ejecutar los ejemplos necesitas un entorno local de servidor web con PHP (ecosistema de desarrollo):
 
-- [WampServer](https://www.wampserver.com/en/) (Windows)  
+- [WampServer](https://www.wampserver.com/en/) (Windows) - MAMP - o LAMP o,
 - [XAMPP](https://www.apachefriends.org/) (Windows / Linux / macOS)
-- Editor de Código: Visual Studio Code.
 
+**Editor de Código :** 
+- Visual Estudio Code.
 **Versión recomendada:**  
 - PHP 7.4 o superior   
-
----
 
 ## 🚀 Cómo usar este repositorio
 
