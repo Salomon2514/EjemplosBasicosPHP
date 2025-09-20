@@ -5,7 +5,7 @@ Este repositorio contiene varios ejemplos y ejercicios en PHP para aprender conc
 
 ---
 
-## Tecnologías utilizadas  
+## 🌐 Tecnologías utilizadas  
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) 
@@ -39,7 +39,7 @@ Estos entornos no son servidores en sí mismos, sino **paquetes que contienen se
 ![Visitor Count](https://badgen.net/github/watchers/Salomon2514/EjemplosBasicosPHP)
 
 
-## 🚀 Cómo usar este repositorio
+## 📚 Cómo usar este repositorio
 
 1. Descarga o clona el repositorio, ubica una carpeta en www -> para WampServer o htdocs  si es Xampp
    ```bash
