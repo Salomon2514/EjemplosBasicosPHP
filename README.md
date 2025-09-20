@@ -9,7 +9,8 @@ Este repositorio contiene varios ejemplos y ejercicios en PHP para aprender conc
 Para ejecutar los ejemplos necesitas un entorno local de servidor web con PHP:
 
 - [WampServer](https://www.wampserver.com/en/) (Windows)  
-- [XAMPP](https://www.apachefriends.org/) (Windows / Linux / macOS)  
+- [XAMPP](https://www.apachefriends.org/) (Windows / Linux / macOS)
+- Editor de Código: Visual Studio Code.
 
 **Versión recomendada:**  
 - PHP 7.4 o superior   
