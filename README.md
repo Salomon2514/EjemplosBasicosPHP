@@ -30,9 +30,9 @@ Estos paquetes permiten instalar de forma rápida un **stack de desarrollo** que
 Estos entornos no son servidores en sí mismos, sino **paquetes que contienen servidores y herramientas** para simular un servidor web de forma local.
 
 **Editor de Código :** 
-- Visual Estudio Code.
+- Visual Estudio Code
 **Versión recomendada:**  
-- PHP 7.4 o superior   
+- PHP 8.3.14 o superior   
 
 ## 🚀 Cómo usar este repositorio
 
