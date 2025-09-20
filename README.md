@@ -1,3 +1,7 @@
+## Estadísticas
+![Visitor count](https://hits.seals.io/Salomon2514/TU_NOMBRE_DE_USUARIO/EjemplosBasicosPHP)
+
+
 # 📌 Ejemplos básicos con PHP
 
 Este repositorio contiene varios ejemplos y ejercicios en PHP para aprender conceptos fundamentales como variables, arreglos, funciones.
