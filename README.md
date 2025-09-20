@@ -4,6 +4,14 @@ Este repositorio contiene varios ejemplos y ejercicios en PHP para aprender conc
 
 ---
 
+## Tecnologías utilizadas  
+
+![PHP](https://www.php.net/images/logos/new-php-logo.svg)  
+![Apache](https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg)  
+![MySQL](https://www.mysql.com/common/logos/logo-mysql-170x115.png)  
+![XAMPP](https://www.apachefriends.org/images/xampp-logo.svg)  
+
+
 ## ⚙️ Requisitos
 
 Para ejecutar los ejemplos necesitas un entorno local de servidor web con PHP:
