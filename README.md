@@ -14,10 +14,20 @@ Este repositorio contiene varios ejemplos y ejercicios en PHP para aprender conc
 
 ## ⚙️ Requisitos
 
-Para ejecutar los ejemplos necesitas un entorno local de servidor web con PHP (ecosistema de desarrollo):
+Para ejecutar los ejemplos necesitas un entorno local de servidor web con PHP (ecosistema de desarrollo).
+Estos paquetes permiten instalar de forma rápida un **stack de desarrollo** que incluye servidor web, base de datos y soporte para lenguajes de programación.
 
-- [WampServer](https://www.wampserver.com/en/) (Windows) - MAMP - o LAMP o,
-- [XAMPP](https://www.apachefriends.org/) (Windows / Linux / macOS)
+| Entorno   | Plataforma      | Componentes principales                                                                 | Uso principal |
+|-----------|-----------------|-----------------------------------------------------------------------------------------|---------------|
+| **LAMP**  | Linux 🐧        | Apache · MySQL/MariaDB · PHP/Python/Perl                                                | Entornos de servidor Linux |
+| **WAMP**  | Windows 🪟      | Apache · MySQL/MariaDB · PHP                                                            | Desarrollo en Windows |
+| **MAMP**  | macOS 🍏        | Apache/Nginx · MySQL/MariaDB · PHP/Python/Perl                                          | Desarrollo en Mac |
+| **XAMPP** | Multiplataforma ✖️ | Apache · MySQL/MariaDB · PHP · Perl                                                   | Entorno portable y educativo |
+| **Laragon** | Windows ⚡     | Apache/Nginx · MySQL/MariaDB · PHP · Node.js · Redis (modular y ligero)                 | Desarrollo rápido y flexible |
+
+
+📌 **Nota:**  
+Estos entornos no son servidores en sí mismos, sino **paquetes que contienen servidores y herramientas** para simular un servidor web de forma local.
 
 **Editor de Código :** 
 - Visual Estudio Code.
