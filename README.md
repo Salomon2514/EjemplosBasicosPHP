@@ -1,6 +1,6 @@
 
-# 📌 Ejemplos básicos con PHP
-![Creado](https://img.shields.io/badge/Creado-01--09--2025-blue)
+# 📌 Ejemplos básicos con PHP ![Creado](https://img.shields.io/badge/Creado-01--09--2025-blue)
+
 Este repositorio contiene varios ejemplos y ejercicios en PHP para aprender conceptos fundamentales como variables, arreglos, funciones.
 
 ---
