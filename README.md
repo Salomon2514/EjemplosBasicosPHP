@@ -1,5 +1,5 @@
 
-# <img src="https://img.icons8.com/fluency/48/shopping-basket.png" alt="canasta" width="40"/> Ejemplos básicos con PHP 
+# 🧺 Ejemplos básicos con PHP 
 
 Este repositorio contiene varios ejemplos y ejercicios en PHP para aprender conceptos fundamentales como variables, arreglos, funciones.
 
