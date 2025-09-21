@@ -62,5 +62,9 @@ Universidad Tecnológica de Panamá
 🌐 **GitHub:**(https://github.com/Salomon2514)  
 
 
+## 📖 Referencias
+- Arreglos: [ver aquí](https://code.tutsplus.com/es/understand-arrays-in-php--cms-31738t)  
+
+
 
 
