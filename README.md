@@ -3,9 +3,9 @@
 
 Este repositorio contiene **varios ejemplos prácticos en PHP** para aprender y reforzar conceptos fundamentales, tales como:  
 
-- 🔹 Variables  
-- 🔹 Arreglos  
-- 🔹 Funciones  
+ 🔹 Variables  
+ 🔹 Arreglos  
+ 🔹 Funciones  
 
 
 ## 🌐 Tecnologías utilizadas  
