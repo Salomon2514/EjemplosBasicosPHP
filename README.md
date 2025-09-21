@@ -35,8 +35,10 @@ Estos entornos no son servidores en sí mismos, sino **paquetes que contienen se
 
 ## 🔢 Estadísticas
 
-
+ ![Creado](https://img.shields.io/badge/Creado-08--07--2025-blue)
 ![Visitor Count](https://badgen.net/github/watchers/Salomon2514/EjemplosBasicosPHP)
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Salomon2514.EjemplosBasicosPHP)
+
 
 
 ## 📚 Cómo usar este repositorio
@@ -56,7 +58,6 @@ Universidad Tecnológica de Panamá
 📧 **Email:** irinafong@gmail.com<br>
 🌐 **GitHub:**(https://github.com/Salomon2514)  
 
-![Creado](https://img.shields.io/badge/Creado-01--09--2025-blue)
 
 
 
