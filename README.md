@@ -1,9 +1,12 @@
 
 # 🧺 Ejemplos básicos con PHP 
 
-Este repositorio contiene varios ejemplos y ejercicios en PHP para aprender conceptos fundamentales como variables, arreglos, funciones.
+Este repositorio contiene **varios ejemplos prácticos en PHP** para aprender y reforzar conceptos fundamentales, tales como:  
 
----
+- 🔹 Variables  
+- 🔹 Arreglos  
+- 🔹 Funciones  
+
 
 ## 🌐 Tecnologías utilizadas  
 
